@@ -35,13 +35,13 @@ main {
     display: flex;
     justify-content: center;
     backdrop-filter: blur(10px);
-    background-color: red;
+    background-color: blue;
 
 }
 
 .caja__trasera div {
     margin: 100px 40px;
-    color: blueviolet;
+    color: white;
     transition: all 500ms;
 }
 
